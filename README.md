@@ -55,10 +55,10 @@ formula1-data-analysis/
 ## Visualisierungen
 
 ### Teamleistungen
-![Teamleistungen](visuals/teams_points.png)
+![Teamleistungen](visuals/team_punkte.png)
 
 ### Fahrerperformance
-![Fahrerperformance](visuals/driver_performance.png)
+![Fahrerperformance](visuals/fahrer_punkte.png)
 
 ### Korrelationsanalyse
 ![Korrelation](visuals/correlation_plot.png)
